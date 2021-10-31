@@ -31,5 +31,13 @@ void numberEquals(double number1, double number2)
     {
         printf("%d of %d test cases failed.\n", failed, total);
     }
-    printf("Total test cases %d.\n", total);
+    if (total > 1)
+    {
+        printf("%d test cases executed.\n", total);
+    }
+    else
+    {
+        printf("%d test case executed.\n", total);
+    }
+    printf("\n");
 }
