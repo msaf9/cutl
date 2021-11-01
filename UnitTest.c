@@ -23,6 +23,7 @@ void numberEquals(double number1, double number2)
         printf("Error: %d", errno);
         exit(EXIT_FAILURE);
     }
+    printf("::Test Summary::\n");
     if (passed > 0)
     {
         printf("%d of %d test cases passed.\n", passed, total);
