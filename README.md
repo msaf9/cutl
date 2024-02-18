@@ -20,8 +20,8 @@ Library for unit testing C functions.
 ## Installation
 ### Get repository
 ```git
-git https://github.com/msaf9/CUTL.git
-cd CUTL
+git https://github.com/msaf9/cutl.git
+cd cutl
 ```
 
 ## License
