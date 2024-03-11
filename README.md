@@ -2,17 +2,17 @@
 C Unit Test Library
 
 ## Table of contents
-1. Introduction
-2. Technologies
-3. Project status
-4. Installation
-5. License
+- [Introduction](#introduction)
+- [Programming Language](#programming-language)
+- [Project status](#project-status)
+- [Installation](#installation)
+- [License](#license)
 
 ## Introduction
 Library for unit testing C functions. 
 
-## Technologies
-- C Programming Language
+## Programming Language
+- C
 
 ## Project status
 > **Continuous**
